@@ -59,3 +59,10 @@ margin:0 auto;
 .add_movie_form input{
 height: 40px;
 }
+.divide{
+  display:inline-block;
+  width:50%;
+}
+.language_div{
+  padding-left:0;
+}

@@ -43,3 +43,19 @@ margin:0 auto;
   font-size: 20px;
   margin-bottom: 20px;
 }
+.add_movie_form label, .add_movie_form input{
+  display: block;
+}
+.add_movie_form input, .add_movie_form textarea, .add_movie_form select{
+  width: 100%;
+  background:#442D48;
+  border:1px solid white;
+  margin: 7px 0 15 px;
+  color:white;
+  padding: 0 5px;
+  font-size: 19px;
+  font-family: inherit;
+}
+.add_movie_form input{
+height: 40px;
+}
